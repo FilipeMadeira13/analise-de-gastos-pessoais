@@ -117,7 +117,7 @@ O projeto foi desenvolvido como parte dos meus estudos em **Análise de Dados co
 ## 👤 Autor
 
 **Filipe Madeira**
-Estudante de Análise de Dados
+Cientista de Dados
 
 🔗 GitHub: [https://github.com/FilipeMadeira13](https://github.com/FilipeMadeira13)
 🔗 LinkedIn: [https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a/](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a/)
